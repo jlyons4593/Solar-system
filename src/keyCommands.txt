@@ -1,0 +1,50 @@
+Camera Movement:
+
+W: Move the camera forward.
+S: Move the camera backward.
+A: Move the camera left.
+D: Move the camera right.
+Camera Orientation:
+
+Space: Toggle between two camera orientations (top view or regular).
+Top View: Looks directly down at (0,0,0)
+Regular View: Looks along the z axis at (0,0,0)
+
+Camera forwards and backward:
+
+Up Arrow: forward.
+Down Arrow: backward.
+Universe Speed Controls:
+
+1: Increase universe speed.
+2: Decrease universe speed.
+
+Moon Speed Controls:
+3: Increase moon speed.
+4: Decrease moon speed.
+
+Ganymede Speed Controls:
+5: Increase Ganymede speed.
+6: Decrease Ganymede speed.
+
+Titan Speed Controls:
+7: Increase Titan speed.
+8: Decrease Titan speed.
+
+Toggle Moons On/Off:
+9: Toggle visibility of moons.
+
+Toggle Color Mode:
+M: Toggle between different color modes.
+
+Toggle Attenuation Mode:
+. (Period): Toggle attenuation mode on and off.
+
+Cycle Drawing Modes:
+, (Comma): Cycle between drawing vertices, mesh, and filled polygons.
+
+Switch Shaders:
+/ (forward slash): Cycle between different shaders.
+Exit Application:
+
+Escape: Close the application.
