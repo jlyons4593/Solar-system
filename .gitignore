@@ -5,6 +5,6 @@ src/.DS_Store
 **/build
 **/cmake-build-debug
 .cache/*
-dependencies/glad
-dependencies/GLFW
-dependencies/KHR
+dependencies/include/glad
+dependencies/include/GLFW
+dependencies/include/KHR
